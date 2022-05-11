@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1>About Me 📌</h1>
 
 - 👋 I am Jihad Abu Zuhri.
-- 💻 co-founder at a HEARIZE startup company.
+- 💻 co-founder of HEARIZE startup company.
 - 🔭 I have 2+ years of experince in Competitive programming.
 - 💻 Leader of Elite team that has achieved positions in international programming competitions such as IEEEXtreme and ACM-ICPC. 
 - 💻 Team Leader and founder of the Marvel Developer Community at Arab American University.
