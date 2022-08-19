@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 
 - 👋 I am Jihad Abu Zuhri.
 - 🔭 CO-Founder of HEARIZE startup company.
-- 💻 I have 2+ years of experince in Competitive programming.
+- 💻 I have 2+ years of experience in Competitive programming.
 - 💻 Leader of Elite team that has achieved positions in international programming competitions such as IEEEXtreme and ACM-ICPC. 
 - 💻 Team Leader and founder of the Marvel Developer Community at Arab American University.
 - 🌱 I am currently focusing on Machine learning and Deep Learning.
-- 😎 Further more, I Work on many special individual projects!
+- 😎 Furthermore, I Work on many special individual projects!
 - ⚡ Fun fact: Sometimes I LOVE to code 24/7
 
 <br />
