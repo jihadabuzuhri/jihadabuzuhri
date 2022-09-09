@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 
 - 👋 I am Jihad Abu Zuhri.
 - 🔭 CO-Founder of HEARUS startup company.
+- 🔭 Instructor at CSE Academy.
 - 💻 I have 2+ years of experience in Competitive programming.
 - 💻 Leader of Elite team that has achieved positions in international programming competitions such as IEEEXtreme and ACM-ICPC. 
 - 💻 Team Leader and founder of the Marvel Developer Community at Arab American University.
