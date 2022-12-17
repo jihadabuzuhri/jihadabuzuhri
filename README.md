@@ -1,5 +1,5 @@
-### Hi there 👋
-
+<!-- ### Hi there 👋 -->
+<h1 align="center"> Hi there 👋</h1>
 <!--
 **jihadabuzuhri/jihadabuzuhri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1>About Me 📌</h1>
+
+<br/>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?         lines=I'm+A+Backend+Engineer;I'm+From+Palestine.&center=true&width=380&height=45"></a>
+</p>
+
+<br/>
+
+<!-- <h1>About Me 📌</h1> -->
+### About Me 📌
 
 - 👋 I am Jihad Abu Zuhri.
 - 🔭 Backend Engineer at Foothill Technology Solutions. ⚡️
