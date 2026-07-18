@@ -94,6 +94,7 @@ Alongside that journey, I co-founded **HEARIZE** and spent two years teaching pr
       <p><strong>A focused command center for the day.</strong></p>
       <p>An installable, offline-first PWA for tasks, journaling, bookmarks, focus sessions, and tag-driven workflows—with optional cross-device synchronization through a private GitHub gist.</p>
       <p><code>Vanilla JS</code> <code>Vite</code> <code>PWA</code> <code>Workbox</code></p>
+      <p><a href="https://jihadabuzuhri.github.io/daily-dashboard/">Live site ↗</a> · <a href="https://github.com/jihadabuzuhri/daily-dashboard">Source ↗</a></p>
     </td>
     <td width="50%" valign="top">
       <h3>🎛️ <a href="https://jihadabuzuhri.github.io/modepilot-app/#top">ModePilot</a></h3>
