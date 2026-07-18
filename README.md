@@ -96,10 +96,11 @@ Alongside that journey, I co-founded **HEARIZE** and spent two years teaching pr
       <p><code>Vanilla JS</code> <code>Vite</code> <code>PWA</code> <code>Workbox</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3>🎛️ ModePilot <sup>private build</sup></h3>
+      <h3>🎛️ <a href="https://jihadabuzuhri.github.io/modepilot-app/#top">ModePilot</a></h3>
       <p><strong>A personal Discord command center.</strong></p>
       <p>A local-only Rich Presence controller powered by private slash commands, configurable presets and expiration, persistent state, and Discord Desktop's documented local RPC—without using a self-bot.</p>
       <p><code>TypeScript</code> <code>Discord.js</code> <code>Local RPC</code> <code>Vitest</code></p>
+      <p><a href="https://jihadabuzuhri.github.io/modepilot-app/#top">Live site ↗</a> · <a href="https://github.com/jihadabuzuhri/modepilot-app">Source ↗</a></p>
     </td>
   </tr>
 </table>
