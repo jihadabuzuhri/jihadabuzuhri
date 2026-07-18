@@ -114,7 +114,7 @@ Alongside that journey, I co-founded **HEARIZE** and spent two years teaching pr
 
 **Architecture & platform**
 
-![DDD](https://img.shields.io/badge/Domain--Driven_Design-0B1220?style=flat-square) ![Event Driven](https://img.shields.io/badge/Event--Driven-0B1220?style=flat-square) ![Microservices](https://img.shields.io/badge/Microservices-0B1220?style=flat-square) ![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-0B1220?style=flat-square) ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=flat-square&logo=opentelemetry&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![DDD](https://img.shields.io/badge/Domain--Driven_Design-6F42C1?style=flat-square&logoColor=white) ![Event Driven](https://img.shields.io/badge/Event--Driven-0969DA?style=flat-square&logoColor=white) ![Microservices](https://img.shields.io/badge/Microservices-00796B?style=flat-square&logoColor=white) ![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-B35900?style=flat-square&logoColor=white) ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=flat-square&logo=opentelemetry&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
 <details>
 <summary><strong>Open the full engineering toolbox</strong></summary>
