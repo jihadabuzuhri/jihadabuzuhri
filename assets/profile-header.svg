@@ -1,0 +1,71 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title description">
+  <title id="title">Jihad Abu Zuhri — Principal Software Engineer</title>
+  <desc id="description">A dark, technical banner highlighting backend systems, platform architecture, distributed systems, and agentic AI.</desc>
+
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1200" y2="320" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#07111F"/>
+      <stop offset="0.55" stop-color="#0B172A"/>
+      <stop offset="1" stop-color="#07120F"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="160" y1="0" x2="1040" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#58A6FF"/>
+      <stop offset="0.52" stop-color="#7EE787"/>
+      <stop offset="1" stop-color="#3FB950"/>
+    </linearGradient>
+    <radialGradient id="glowBlue" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(182 86) rotate(24) scale(350 220)">
+      <stop stop-color="#1F6FEB" stop-opacity="0.24"/>
+      <stop offset="1" stop-color="#1F6FEB" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowGreen" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1050 270) rotate(-154) scale(370 210)">
+      <stop stop-color="#238636" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#238636" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" stroke="#8B949E" stroke-opacity="0.07"/>
+    </pattern>
+    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="6"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="320" rx="24" fill="url(#background)"/>
+  <rect width="1200" height="320" rx="24" fill="url(#glowBlue)"/>
+  <rect width="1200" height="320" rx="24" fill="url(#glowGreen)"/>
+  <rect width="1200" height="320" rx="24" fill="url(#grid)"/>
+  <rect x="0.75" y="0.75" width="1198.5" height="318.5" rx="23.25" stroke="#30363D" stroke-width="1.5"/>
+
+  <circle cx="42" cy="34" r="5" fill="#FF5F56"/>
+  <circle cx="62" cy="34" r="5" fill="#FFBD2E"/>
+  <circle cx="82" cy="34" r="5" fill="#27C93F"/>
+  <text x="108" y="39" fill="#8B949E" font-size="14" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">~/jihad/profile</text>
+
+  <g opacity="0.7">
+    <path d="M908 58L982 92L1082 52" stroke="#58A6FF" stroke-opacity="0.36"/>
+    <path d="M982 92L934 162L1042 190L1122 124L1082 52" stroke="#7EE787" stroke-opacity="0.28"/>
+    <path d="M934 162L992 248L1092 256L1042 190" stroke="#58A6FF" stroke-opacity="0.28"/>
+    <path d="M1042 190L1092 256L1160 210L1122 124" stroke="#7EE787" stroke-opacity="0.3"/>
+    <circle cx="908" cy="58" r="4" fill="#58A6FF"/>
+    <circle cx="982" cy="92" r="5" fill="#7EE787"/>
+    <circle cx="1082" cy="52" r="4" fill="#58A6FF"/>
+    <circle cx="934" cy="162" r="5" fill="#58A6FF"/>
+    <circle cx="1042" cy="190" r="6" fill="#7EE787"/>
+    <circle cx="1122" cy="124" r="4" fill="#58A6FF"/>
+    <circle cx="992" cy="248" r="4" fill="#58A6FF"/>
+    <circle cx="1092" cy="256" r="5" fill="#7EE787"/>
+    <circle cx="1160" cy="210" r="4" fill="#58A6FF"/>
+    <circle cx="1042" cy="190" r="16" fill="#7EE787" fill-opacity="0.16" filter="url(#softGlow)"/>
+  </g>
+
+  <text x="76" y="105" fill="#7EE787" font-size="16" font-weight="600" letter-spacing="2.4" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">PRINCIPAL SOFTWARE ENGINEER</text>
+  <text x="72" y="178" fill="#F0F6FC" font-size="58" font-weight="750" letter-spacing="-1.5" font-family="Inter, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif">Jihad Abu Zuhri</text>
+  <rect x="76" y="203" width="94" height="4" rx="2" fill="url(#accent)"/>
+  <text x="76" y="252" fill="#C9D1D9" font-size="18" font-weight="500" letter-spacing="0.2" font-family="Inter, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif">BACKEND SYSTEMS  ·  PLATFORM ARCHITECTURE  ·  DISTRIBUTED SYSTEMS  ·  AGENTIC AI</text>
+  <text x="76" y="286" fill="#8B949E" font-size="14" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">Nablus, Palestine  •  designing systems that scale beyond a single team</text>
+
+  <rect x="1155.5" y="17.5" width="23" height="25" rx="4.5" stroke="#8B949E" stroke-opacity="0.55"/>
+  <rect x="1156" y="18" width="22" height="8" rx="4" fill="#000000"/>
+  <rect x="1156" y="26" width="22" height="8" fill="#F0F6FC"/>
+  <rect x="1156" y="34" width="22" height="8" rx="4" fill="#007A3D"/>
+  <path d="M1156 18L1166 30L1156 42V18Z" fill="#CE1126"/>
+</svg>
